@@ -1,0 +1,21 @@
+body { 
+  background-image: url('bg2.jpg');
+  background-position: right; 
+}
+
+h1{
+  font-style: italic;
+}
+
+img {
+
+  border-radius: 50%;
+}
+
+div{
+
+  padding-left:700px;
+}
+
+
+//Loginpage
